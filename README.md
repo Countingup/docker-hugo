@@ -1,4 +1,4 @@
-# Kinesalite
+# Hugo
 
 [![Docker Automated build](https://img.shields.io/docker/build/countingup/hugo.svg)](https://hub.docker.com/r/countingup/hugo/builds/)
 
